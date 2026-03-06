@@ -4,6 +4,14 @@ Real-time drone detection system using a custom-trained **YOLOv8** model deploye
 
 ---
 
+
+## Demo
+
+[![Watch the demo](https://img.youtube.com/vi/TSfGxQVbM-4/0.jpg)](https://youtube.com/shorts/TSfGxQVbM-4)
+
+
+
+
 ## How It Works
 
 ```
